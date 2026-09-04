@@ -1,0 +1,25 @@
+Date,Region,Team,Product,Orders,Revenue,Customers,Conversion_Rate,SLA_Adherence,Customer_Satisfaction,Processing_Time,Order_Status
+2025-01-05,North,Team A,Product A,120,240000,1500,8.0,94,4.5,3.2,Completed
+2025-01-15,South,Team B,Product B,95,190000,1300,7.3,88,3.8,4.5,Completed
+2025-02-03,East,Team C,Product C,110,220000,1450,7.6,92,4.2,3.8,Completed
+2025-02-18,West,Team A,Product B,135,270000,1700,7.9,96,4.6,2.9,Completed
+2025-03-07,North,Team B,Product C,105,210000,1400,7.5,91,4.1,3.7,Pending
+2025-03-21,South,Team C,Product A,85,170000,1250,6.8,86,3.7,5.1,Cancelled
+2025-04-04,East,Team A,Product B,140,280000,1800,7.8,95,4.5,3.0,Completed
+2025-04-19,West,Team B,Product C,125,250000,1650,7.6,93,4.3,3.4,Completed
+2025-05-08,North,Team C,Product A,150,300000,1900,7.9,97,4.7,2.7,Completed
+2025-05-23,South,Team A,Product C,90,180000,1350,6.7,87,3.9,4.8,Pending
+2025-06-06,East,Team B,Product A,130,260000,1750,7.4,92,4.2,3.6,Completed
+2025-06-20,West,Team C,Product B,145,290000,1850,7.8,94,4.4,3.1,Completed
+2025-07-05,North,Team A,Product C,160,320000,2000,8.0,96,4.6,2.8,Completed
+2025-07-19,South,Team B,Product A,100,200000,1450,6.9,89,3.9,4.4,Pending
+2025-08-04,East,Team C,Product B,155,310000,1950,7.9,95,4.5,3.0,Completed
+2025-08-22,West,Team A,Product A,170,340000,2100,8.1,97,4.8,2.6,Completed
+2025-09-06,North,Team B,Product B,145,290000,1850,7.8,94,4.4,3.2,Completed
+2025-09-21,South,Team C,Product C,105,210000,1500,7.0,88,3.8,4.6,Cancelled
+2025-10-05,East,Team A,Product A,165,330000,2050,8.0,96,4.6,2.9,Completed
+2025-10-20,West,Team B,Product C,150,300000,1900,7.9,93,4.3,3.5,Completed
+2025-11-06,North,Team C,Product B,175,350000,2200,8.2,97,4.7,2.5,Completed
+2025-11-19,South,Team A,Product A,115,230000,1550,7.1,90,4.0,4.1,Pending
+2025-12-05,East,Team B,Product C,180,360000,2250,8.0,95,4.5,2.8,Completed
+2025-12-20,West,Team C,Product B,165,330000,2100,7.9,94,4.4,3.0,Completed
